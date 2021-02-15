@@ -1,0 +1,12 @@
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
