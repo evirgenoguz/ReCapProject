@@ -3,6 +3,7 @@ using Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 
 namespace DataAccess.Concrete.InMemory
@@ -36,10 +37,20 @@ namespace DataAccess.Concrete.InMemory
             _cars.Remove(productToDelete); //burada remove metodu ile listeden çıkardık
         }
 
+        public Car Get(Expression<Func<Car, bool>> filter)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Car> GetAll()
         {
             //listedeki tüm araçları ve özelliklerini çağıracağız
             return _cars; //_cars daki elemanları return ile methoddan döndürdük.
+        }
+
+        public List<Car> GetAll(Expression<Func<Car, bool>> filter = null)
+        {
+            throw new NotImplementedException();
         }
 
         public List<Car> GetById(int carId)
