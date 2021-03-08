@@ -1,5 +1,7 @@
-﻿using DataAccess.Abstract;
+﻿using Core.DataAccess;
+using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -68,6 +70,36 @@ namespace DataAccess.Concrete.InMemory
             updateToCar.ModelYear = car.ModelYear;
             updateToCar.DailyPrice = car.DailyPrice;
             updateToCar.Description = car.Description;
+        }
+
+        void IEntityRepository<Car>.Add(Car entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        void IEntityRepository<Car>.Delete(Car entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        Car IEntityRepository<Car>.Get(Expression<Func<Car, bool>> filter)
+        {
+            throw new NotImplementedException();
+        }
+
+        List<Car> IEntityRepository<Car>.GetAll(Expression<Func<Car, bool>> filter)
+        {
+            throw new NotImplementedException();
+        }
+
+        List<CarDetailDto> ICarDal.GetCarDetails()
+        {
+            throw new NotImplementedException();
+        }
+
+        void IEntityRepository<Car>.Update(Car entity)
+        {
+            throw new NotImplementedException();
         }
     }
 }

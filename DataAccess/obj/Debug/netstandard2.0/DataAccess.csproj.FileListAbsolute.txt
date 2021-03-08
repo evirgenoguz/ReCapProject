@@ -10,3 +10,5 @@ D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\Data
 D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\YazilimGelistiriciKampi\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
